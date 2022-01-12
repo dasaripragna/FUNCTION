@@ -1,0 +1,10 @@
+a=int(input("enter the num"))
+b=int(input("enter the num"))
+def c(a,b):
+    print(a*b)
+    print(a+b)
+    print(a-b)
+    print(a%b)
+    print(a/b)
+    print(a//b)
+c(a,b)
